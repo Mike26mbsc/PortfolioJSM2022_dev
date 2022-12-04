@@ -1,5 +1,6 @@
 # PortfolioJSM2022_dev
 #This is an updated portfolio project for 2022
+
 # Portfolio Documentation
 
 This portfolio features a Sanity backend to handle client requests and a frontend UI built out of React components.
@@ -7,8 +8,6 @@ This portfolio features a Sanity backend to handle client requests and a fronten
 ## Installation
 Use [git](https://pip.pypa.io/en/stable/) to clone into the repository.
 
-# PortfolioJSM2022_dev
-#This is an updated portfolio project for 2022
 backend_sanity
 frontend_react
 package-lock.json
